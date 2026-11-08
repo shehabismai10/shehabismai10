@@ -1,6 +1,6 @@
 # Hi there, I'm Shehab Ismail 👋
 
-**Backend Software Engineer** specializing in **Java**, **Spring Boot**, and **Oracle PL/SQL**.
+**Software Engineer** specializing in **Java**, **Spring Boot**, and **Oracle PL/SQL**.
 
 I focus on building scalable financial logic, optimizing database performance, and designing secure RESTful APIs for high-transaction enterprise applications.
 
